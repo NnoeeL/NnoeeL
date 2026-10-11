@@ -30,13 +30,13 @@
 ### 🧑‍💻 Tentang Saya
 
 ```yaml
-name: [Nama Kamu]
+name: Nnoel
 current_role: "Software Engineer / Professional StackOverflow Googler"
 location: "Indonesia 🇮🇩"
 hobbies:
-  - "Nulis kode sampai jam 3 pagi"
-  - "Nonton tutorial 2 jam, ngoding 10 menit"
-  - "Memperbaiki 1 bug, menghasilkan 5 bug baru"
+  - "Nunggu Token Reset"
+  - "Mecut AI"
+  - "Nonton windut"
 superpower: "Bisa bikin fitur jalan pas presentasi doang"
 motto: "Kalau kodenya jalan, JANGAN DISENTUH LAGI!"
 ```
