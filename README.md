@@ -121,13 +121,6 @@ graph LR
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NnoeeL&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
----
-
-### 🤣 Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=0D1117" alt="Jokes Card" />
-</div>
 
 ---
 
@@ -137,13 +130,13 @@ Yuk ngobrol santai, diskusi project, atau mabar:
 
 <div align="center">
   <a href="https://www.instagram.com/nnoelfr/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-nnoelfr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.tiktok.com/@nno3el" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-nno3el-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://discord.com/users/565118651875983370" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-ellsohee-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
