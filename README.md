@@ -3,6 +3,7 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Halo%20Gaess%20%F0%9F%91%8B&fontSize=42&fontAlignY=38&desc=Tukang%20Mecut%20AI%20%7C%2024%2F7%20Penunggu%20Token%20Reset&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
+
   <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Software+Engineer+(Konon+Katanya);Spesialis+Ctrl%2BC+%2B+Ctrl%2BV;Bisa+bikin+bug+dalam+5+menit;Masih+berjuang+men-center-kan+%3Cdiv%3E;Turning+kafein+into+syntax+error" alt="Typing SVG" />
@@ -17,7 +18,7 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitor+Count&color=61afef&style=flat-square" alt="Visitor Count" />
+    <img src="https://komarev.com/ghpvc/?username=NnoeeL&label=Visitor+Count&color=61afef&style=flat-square" alt="Visitor Count" />
     <img src="https://img.shields.io/badge/Status-Overthinking%20Code-orange?style=flat-square" alt="Status" />
     <img src="https://img.shields.io/badge/Coffee%20Level-99%25-brown?style=flat-square&logo=buy-me-a-coffee" alt="Coffee" />
   </p>
@@ -29,13 +30,13 @@
 ### 🧑‍💻 Tentang Saya
 
 ```yaml
-name: Muhammad Farrel
+name: [Nama Kamu]
 current_role: "Software Engineer / Professional StackOverflow Googler"
 location: "Indonesia 🇮🇩"
 hobbies:
-  - "Mecut AI"
+  - "Nulis kode sampai jam 3 pagi"
   - "Nonton tutorial 2 jam, ngoding 10 menit"
-  - "Nunggu token sambil liatin ikan"
+  - "Memperbaiki 1 bug, menghasilkan 5 bug baru"
 superpower: "Bisa bikin fitur jalan pas presentasi doang"
 motto: "Kalau kodenya jalan, JANGAN DISENTUH LAGI!"
 ```
@@ -111,13 +112,13 @@ graph LR
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NnoeeL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NnoeeL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <div align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NnoeeL&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
@@ -133,9 +134,9 @@ graph LR
 ### 🐍 Contribution Activity (Snake Eater)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NnoeeL/NnoeeL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NnoeeL/NnoeeL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/NnoeeL/NnoeeL/output/github-contribution-grid-snake.svg">
 </picture>
 
 > *Catatan: Untuk mengaktifkan animasi ular makan commit di atas, cukup pasang GitHub Actions Snake Workflow! (Lihat petunjuk di bawah).*
