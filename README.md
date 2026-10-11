@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Halo%2C%20Dunia!%20%E2%9C%A8&fontSize=42&fontAlignY=38&desc=Tukang%20Ketik%20Kode%20Bertenaga%20Kopi%20%7C%20Full-Stack%20Troublemaker&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Halo%20Gaess%20%F0%9F%91%8B&fontSize=42&fontAlignY=38&desc=Tukang%20Mecut%20AI%20%7C%2024%2F7%20Penunggu%20Token%20Reset&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
