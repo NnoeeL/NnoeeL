@@ -131,33 +131,21 @@ graph LR
 
 ---
 
-### 🐍 Contribution Activity (Snake Eater)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NnoeeL/NnoeeL/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NnoeeL/NnoeeL/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/NnoeeL/NnoeeL/output/github-contribution-grid-snake.svg">
-</picture>
-
-> *Catatan: Untuk mengaktifkan animasi ular makan commit di atas, cukup pasang GitHub Actions Snake Workflow! (Lihat petunjuk di bawah).*
-
----
-
 ### 📬 Kontak & Sosmed
 
 Yuk ngobrol santai, diskusi project, atau mabar:
 
-<p align="center">
-  <a href="https://instagram.com/nnoelfr" target="_blank">
+<div align="center">
+  <a href="https://www.instagram.com/nnoelfr/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-nnoelfr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.tiktok.com/@nno3el" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-@nno3el-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-nno3el-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discord.com/users/565118651875983370" target="_blank">
     <img src="https://img.shields.io/badge/Discord-ellsohee-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</p>
+</div>
 
 ---
 
