@@ -23,17 +23,29 @@
 
 <br/>
 
-## `whoami`
+## `know my name`
 
 ```yaml
-name: Nnoel
-role: Programmer & Mahasiswa Informatika
-campus: Universitas Siliwangi
-location: Indonesia 🇮🇩
-building: [BikinDocs, BikinPlan, ArsipBelajar, Sahabat Mahasiswa, NgodingYuk, bot WhatsApp & Discord]
-hobbies: [nunggu token reset, mecut AI, nonton windut]
-superpower: bisa bikin fitur jalan pas presentasi doang
-motto: "Kalau kodenya jalan, JANGAN DISENTUH LAGI!"
+manifest:
+  name: Muhammad Farrel
+  codename: Nnoel
+  archetype: Software Builder & Informatics Undergrad
+  base: Universitas Siliwangi, ID 🇮🇩
+
+active_deployments:
+  products: [BikinDocs, BikinPlan, ArsipBelajar, Sahabat Mahasiswa]
+  automation: [NgodingYuk, WA & Discord Bots]
+
+daily_telemetry:
+  workflow: politely whipping AI until it compiles
+  downtime: staring at token reset timers & watching Windut
+  passive_skill: "Demo-Day Miracle — jalan mulus pas presentasi doang"
+  sanity: "low, but still can function lah"
+
+system_policy:
+  touch_working_code: false # udah jalan jangan disentuh, don't spoil it
+  deploy_strategy: "ship first, overthink later"
+  sleep_schedule: null # optional feature
 ```
 
 <br/>
