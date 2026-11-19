@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.jpg" width="100%" alt="Nnoel" />
-
 <a href="https://git.io/typing-svg">
   <img src="mai-banner.jpg" width="100%" alt="Banner" />
 </a>
