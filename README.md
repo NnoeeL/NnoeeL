@@ -23,7 +23,7 @@
 
 <br/>
 
-## `know my name`
+## `get to know me`
 
 ```yaml
 manifest:
