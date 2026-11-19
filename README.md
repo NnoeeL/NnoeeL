@@ -3,7 +3,7 @@
 <img src="mai-banner.jpg" width="100%" alt="Banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=560&height=40&lines=Bikin+bot,+tools,+dan+website;Spesialis+prompt+yang+jelas;Kalau+kodenya+jalan,+JANGAN+DISENTUH;24%2F7+nunggu+token+reset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=false&width=820&height=40&lines=Big+Thanks+to+Allah+and+Sakurajima+Mai%2C+for+being+by+my+side+since+day+one." alt="Typing SVG" />
 </a>
 
 <br/>
