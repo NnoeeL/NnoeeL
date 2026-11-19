@@ -151,8 +151,8 @@ graph LR
 
 **Mampir? Kasih bintang di repo ya ⭐**
 
-<sub>Dibuat dengan kopi dan setumpuk error log yang belum di-resolve.</sub>
+Dibuat dengan ❤️ oleh Nnoel | Made with ❤️
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:7b2ff7,100:00f0ff&height=120&section=footer&reversal=true" width="100%" alt="Footer" />
+<sub>Ditemani kopi dan setumpuk error log yang belum di-resolve.</sub>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:7b2ff7,100:00f0ff&height=120&section=footer&reversal=true" width="100%" alt="Footer" /> </div>
